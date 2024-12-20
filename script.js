@@ -28,8 +28,8 @@ if (number==2) {
 
         if (number==5) {
             headcanon = "is NOT cool4ever2"  
-            if (name=="Jaden360lol"){ headcanon = "IS cool4ever" }  
-            if (name=="jaden360lol"){ headcanon = "IS cool4ever" }
+            if (name=="Jaden360lol"){ headcanon = "IS cool4ever2" }  
+            if (name=="jaden360lol"){ headcanon = "IS cool4ever2" }
             } 
 
 
