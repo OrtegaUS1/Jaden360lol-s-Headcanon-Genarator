@@ -6,7 +6,7 @@ function getRandomInt(min, max) {
 function headcanon(){
 let output = document.getElementById("output") 
 let name = document.getElementById("name").value
-let number = getRandomInt(1, 5)
+let number = getRandomInt(1, 6)
 let headcanon = 'has code error'
 
 
@@ -25,8 +25,11 @@ if (number==2) {
      if (number==4) {
         headcanon = "likes the number 360, lol"    
         } 
+      if (number==5) {
+        headcanon = "Often gets caught in the crossfire of powerscaling debates"    
+        } 
 
-        if (number==5) {
+        if (number==6) {
             headcanon = "is NOT cool4ever2"  
             if (name=="Jaden360lol"){ headcanon = "IS cool4ever2" }  
             if (name=="jaden360lol"){ headcanon = "IS cool4ever2" }
