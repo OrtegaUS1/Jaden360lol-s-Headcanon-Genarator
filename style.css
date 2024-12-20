@@ -1,3 +1,10 @@
 body {
   background-color: lightblue;
 }
+#version {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 10px;  
+color:blue ;
+position: fixed;
+bottom: 1% ;
+}
