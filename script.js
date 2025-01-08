@@ -33,7 +33,7 @@ if (number==2) {
             headcanon = "is NOT cool4ever2"  
             if (name=="Jaden360lol"){ headcanon = "IS cool4ever2" }  
             if (name=="jaden360lol"){ headcanon = "IS cool4ever2" }
-            }  
+            } 
                 if (number==7) {
      headcanon = "should add the one on Cannon Island"    
      } 
